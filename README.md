@@ -8,7 +8,7 @@
 Welcome to my portfolio website, thank you for checking it out. 
 </p>
 
-### 🌐 [Repo](https://https://github.com/zeeshanahmad145/portfolio) | [Live]( zeeshan-ahmad-portfolio.netlify.app) 
+### 🌐 [Repo](https://github.com/zeeshanahmad145/portfolio) | [Live](https://zeeshan-ahmad-portfolio.netlify.app/) 
 
 If you like my portfolio website, please give a ⭐️! Thank you so much.
 
